@@ -13,11 +13,11 @@ import pytz
 
 # Configuração do OpenAI
 clientOpenApi = OpenAI(
-    api_key="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",
+    api_key="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",
 )
 
 # Configuração do Firebase
-cred = credentials.Certificate("lobinho-de-wall-street-firebase-adminsdk-r4x0i-b99f0314cb.json")
+cred = credentials.Certificate("lobinho-de-wall-street-firebase-adminsdk-r4x0i-0a073da784.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
