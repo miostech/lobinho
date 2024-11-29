@@ -1,0 +1,5 @@
+status,total_messages,reason_descriptions,percentage
+DELIVERED,4569,Message received by mobile,80.27055516514406
+NOT_DELIVERED,599,"Message rejected by operator, Operator network error, Mobile number not covered",10.523541813070977
+REJECTED,51,Incorrect or incomplete 'to' mobile number,0.8959943780744906
+SENT,473,Message Sent,8.30990864371047
