@@ -13,7 +13,7 @@ import pytz
 
 # Configuração do OpenAI
 clientOpenApi = OpenAI(
-    api_key="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",
+    api_key="",
 )
 
 # Configuração do Firebase
